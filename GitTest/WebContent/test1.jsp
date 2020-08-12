@@ -8,6 +8,6 @@
 </head>
 <body>
 <<<<<<< HEAD
-test1.jsp수정 _ update2업데이트된 파일 -git허브 업데이트
+test1.jsp수정 _ update2업데이트된 파일 -git허브 업데이트- 밤새 업댓있는지 확인
 </body>
 </html>
