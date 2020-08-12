@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-test1.jsp수정
+test1.jsp수정 _ update2업데이트된 파일 
 </body>
 </html>
