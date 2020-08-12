@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-test1.jsp수정 _ update2업데이트된 파일 
+test1.jsp수정 _ update2업데이트된 파일 -my eclipse 업데이트-
 </body>
 </html>
